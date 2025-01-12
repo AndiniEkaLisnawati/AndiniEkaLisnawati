@@ -45,7 +45,7 @@ Here are some projects I’ve worked on:
 
 ## 📫 How to Reach Me
 Feel free to connect with me:
-- LinkedIn: Andini Eka Lisnawati
+- LinkedIn: https://www.linkedin.com/in/Andini Eka Lisnawati/
 - Email: andiniekalisnawatililis2@gmail.com
 
 ---
