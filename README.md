@@ -9,8 +9,6 @@
    - 📊 Database Management with phpMyAdmin and Laragon
 
 ## 💼 Projects
-Here are some projects I’ve worked on:
-
 ### 1. **[Haus Landing Page](#)**  
    _Built with: React.js, Vite.js, Tailwind CSS_  
    **Description**:  
