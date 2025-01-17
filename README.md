@@ -1,15 +1,12 @@
 # Hi, I'm Andini Eka Lisnawati! 👋
 
 ## About Me
+💖 Fall In Love W Efal
 I am a **Software Engineering student** currently pursuing vocational education with hands-on experience in:
 - 🌟 React.js, Vite.js, JavaScript, and Tailwind CSS
 - 🖌️ Front-End Development with Vanilla CSS
 - 🔄 Version Control using Git and GitHub
 - 📊 Database Management with phpMyAdmin and Laragon
-
-I enjoy creating **intuitive and responsive web applications** and continuously strive to improve my skills in modern development practices. 💻
-
----
 
 ## 💼 Projects
 Here are some projects I’ve worked on:
