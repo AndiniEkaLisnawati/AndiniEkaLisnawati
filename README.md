@@ -1,5 +1,7 @@
 <h2 align="center"> Hey there! I'm andin. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
-<img align="center" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/1.gif" width="1000"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Girl GIF">
+</p>
 
 ## About Me
 - **Software Engineering student** with hands-on experience in:
