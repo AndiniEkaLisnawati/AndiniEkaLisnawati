@@ -50,9 +50,13 @@ To get a local copy up and running follow these simple steps.
 ---
 
 ## 📫 How to Reach Me
-## 📫 How to Reach Me
-[![LinkedIn](https://img.icons8.com/ios/452/linkedin.png)](https://www.linkedin.com/in/andini-eka-lisnawati-464556280/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail)](mailto:andiniekalisnawatililis2@gmail.com)
+Feel free to connect with me:
+- LinkedIn: [![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/andini-eka-lisnawati-464556280/)
+- Email: [![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail)](mailto:andiniekalisnawatililis2@gmail.com)
+
+---
+
+Thank you for visiting my profile! 😊
 
 ---
 
