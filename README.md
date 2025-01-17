@@ -46,14 +46,10 @@ To get a local copy up and running follow these simple steps.
 
 ---
 
-## 📫 How to Reach Me
-Feel free to connect:
-<p align="left">
-  <a href="https://www.linkedin.com/in/andini-eka-lisnawati-464556280/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:andiniekalisnawatililis2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=social&logo=gmail" alt="Email"/>
-  </a>
-</p>
+<h3> <p align="center">🤝🏻 Connect with Me</p> </h3>
 
+<p align="center">
+&nbsp; <a href="https://www.instagram.com/sy.andnnn/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/andinn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:andiniekalisnawatililis2@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
