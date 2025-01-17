@@ -23,6 +23,15 @@ Here are some projects I’ve worked on:
    - Interactive UI elements  
    - Optimized performance for faster load times
 
+### 2. **[AlloBank Landing Page](#)**  
+   _Built with: React.js, Vite.js, Tailwind CSS_  
+   **Description**:  
+   A responsive landing page for "AlloBank" developed using React.js, Vite.js, and Tailwind CSS.  
+   **Features**:  
+   - Clean, minimal design  
+   - Smooth responsiveness across devices  
+   - Dynamic elements for enhanced user experience
+
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
@@ -35,15 +44,7 @@ To get a local copy up and running follow these simple steps.
    ```bash
    git clone https://github.com/AndiniEkaLisnawati/repository-name.git
 
-### 2. **[AlloBank Landing Page](#)**  
-   _Built with: React.js, Vite.js, Tailwind CSS_  
-   **Description**:  
-   A responsive landing page for "AlloBank" developed using React.js, Vite.js, and Tailwind CSS.  
-   **Features**:  
-   - Clean, minimal design  
-   - Smooth responsiveness across devices  
-   - Dynamic elements for enhanced user experience  
----
+
 
 ## 🔧 Skills
 - **Programming Languages**: JavaScript, HTML, CSS  
