@@ -50,7 +50,7 @@ To get a local copy up and running follow these simple steps.
 ---
 
 ## 📫 How to Reach Me
-Feel free to connect with me:
+Feel free to connect:
 <p align="left">
   <a href="https://www.linkedin.com/in/andini-eka-lisnawati-464556280/">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
