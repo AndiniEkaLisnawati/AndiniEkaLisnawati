@@ -1,7 +1,9 @@
-<h2 align="center"> Hey there! I'm andin. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif">
 </p>
+
+<h2 align="center"> Hey there! I'm andin. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
 
 ## About Me
 - **Software Engineering student** with hands-on experience in:
