@@ -1,5 +1,4 @@
-<p align="center"> # Hi, I'm Andin! 👋 </p>
-   
+<h2><p align="center"> # Hi, I'm Andin! 👋 </p></h2>  
 <img align="center" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/1.gif" width="1000"/>
 
 ## About Me
