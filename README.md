@@ -45,6 +45,16 @@ To get a local copy up and running follow these simple steps.
 - Front-End Development best practices  
 
 ---
+## Github Stats
+
+<p align = "left">
+  <img src = "https://github-readme-stats.vercel.app/api?username=AndiniEkaLisnawati&show_icons=true&&include_all_commits=true&count_private=true&theme=light&line_height=27">
+</p>
+  
+<p align="left" style="margin-bottom: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=AndiniEkaLisnawati&column=7&theme=light"/>
+</p>
+</p>
 
 ## 📫 How to Reach Me
 Feel free to connect:
