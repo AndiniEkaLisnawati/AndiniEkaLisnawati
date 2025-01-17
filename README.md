@@ -1,5 +1,6 @@
 # Hi, I'm Andini Eka Lisnawati! 👋
 <img align="center" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/1.gif" width="1000"/>
+
 ## About Me
 - **Software Engineering student** with hands-on experience in:
    - 🌟 React.js, Vite.js, JavaScript, and Tailwind CSS
