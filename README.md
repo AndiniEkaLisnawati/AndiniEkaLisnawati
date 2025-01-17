@@ -14,18 +14,23 @@ I enjoy creating **intuitive and responsive web applications** and continuously 
 ## 💼 Projects
 Here are some projects I’ve worked on:
 
-1. **[Responsive Landing Page](#)**  
-   _Description_: Built a responsive landing page using **HTML**, **CSS**, and **JavaScript**.  
-   _Features_: Mobile-friendly design, animations, and dynamic content loading.  
+### 1. **[Haus Landing Page](#)**  
+   _Built with: React.js, Vite.js, Tailwind CSS_  
+   **Description**:  
+   A responsive landing page for "Haus" created using React.js, Vite.js, and Tailwind CSS.  
+   **Features**:  
+   - Modern and responsive design  
+   - Interactive UI elements  
+   - Optimized performance for faster load times  
 
-2. **[React App with Vite.js](#)**  
-   _Description_: Developed a React.js application using **Vite.js** for faster build times and enhanced developer experience.  
-   _Features_: Modular architecture, optimized performance, and integration with Tailwind CSS.  
-
-3. **[Portfolio Website](#)**  
-   _Description_: A personal portfolio website built with **React.js**, **Vite.js**, and **Tailwind CSS**.  
-   _Features_: Interactive UI, dark mode toggle, and responsive design.
-
+### 2. **[AlloBank Landing Page](#)**  
+   _Built with: React.js, Vite.js, Tailwind CSS_  
+   **Description**:  
+   A responsive landing page for "AlloBank" developed using React.js, Vite.js, and Tailwind CSS.  
+   **Features**:  
+   - Clean, minimal design  
+   - Smooth responsiveness across devices  
+   - Dynamic elements for enhanced user experience  
 ---
 
 ## 🔧 Skills
