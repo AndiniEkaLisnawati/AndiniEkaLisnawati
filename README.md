@@ -26,19 +26,7 @@
    - Clean, minimal design  
    - Smooth responsiveness across devices  
    - Dynamic elements for enhanced user experience
-
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-- **Node.js** and **npm** installed.
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AndiniEkaLisnawati/repository-name.git
-
+     
 
 ## 🌱 Currently Learning
 - Advanced React  
