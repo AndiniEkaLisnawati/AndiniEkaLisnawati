@@ -42,26 +42,17 @@ To get a local copy up and running follow these simple steps.
    git clone https://github.com/AndiniEkaLisnawati/repository-name.git
 
 
-
-## 🔧 Skills
-- **Programming Languages**: JavaScript, HTML, CSS  
-- **Frameworks & Libraries**: React.js, Vite.js, Tailwind CSS  
-- **Tools**: Git, GitHub, Visual Studio Code  
-- **Database Management**: phpMyAdmin, Laragon
-
----
-
 ## 🌱 Currently Learning
-- Advanced JavaScript (ES6+ features)  
-- Database optimization using phpMyAdmin  
+- Advanced React  
+- Basics of Express.js 
 - Front-End Development best practices  
 
 ---
 
 ## 📫 How to Reach Me
 Feel free to connect with me:
-- LinkedIn: [https://www.linkedin.com/in/andini-eka-lisnawati/](https://www.linkedin.com/in/andini-eka-lisnawati-464556280/)
-- Email: andiniekalisnawatililis2@gmail.com
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/andini-eka-lisnawati-464556280/)
+- Email: [![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail)](mailto:andiniekalisnawatililis2@gmail.com)
 
 ---
 
