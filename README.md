@@ -6,6 +6,7 @@
 
 
 ## About Me
+- 💖 &nbsp; Fall In Love W Efal
 - **Software Engineering student** with hands-on experience in:
    - 🌟 React.js, Vite.js, JavaScript, and Tailwind CSS
    - 🖌️ Front-End Development with Vanilla CSS
@@ -16,21 +17,13 @@
 ### 1. **[Haus Landing Page](#)**  
    _Built with: React.js, Vite.js, Tailwind CSS_  
    **Description**:  
-   A responsive landing page for "Haus" created using React.js, Vite.js, and Tailwind CSS.  
-   **Features**:  
-   - Modern and responsive design  
-   - Interactive UI elements  
-   - Optimized performance for faster load times
-
+   A responsive landing page for "Haus" created using React.js, Vite.js, and Tailwind CSS with Modern and responsive design.
+   
 ### 2. **[AlloBank Landing Page](#)**  
    _Built with: React.js, Vite.js, Tailwind CSS_  
    **Description**:  
-   A responsive landing page for "AlloBank" developed using React.js, Vite.js, and Tailwind CSS.  
-   **Features**:  
-   - Clean, minimal design  
-   - Smooth responsiveness across devices  
-   - Dynamic elements for enhanced user experience
-     
+   A responsive landing page for "AlloBank" developed using React.js, Vite.js, and Tailwind CSS with Clean, minimal design  
+
 
 ## 🌱 Currently Learning
 - Advanced React  
