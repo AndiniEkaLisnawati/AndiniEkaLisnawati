@@ -6,7 +6,7 @@
 
 
 ## About Me
-- 💖 &nbsp; Fall In Love W Efal
+- 💖 &nbsp; Fall In Love W Efal.
 - **Software Engineering student** with hands-on experience in:
    - 🌟 React.js, Vite.js, JavaScript, and Tailwind CSS
    - 🖌️ Front-End Development with Vanilla CSS
@@ -22,7 +22,7 @@
 ### 2. **[AlloBank Landing Page](#)**  
    _Built with: React.js, Vite.js, Tailwind CSS_  
    **Description**:  
-   A responsive landing page for "AlloBank" developed using React.js, Vite.js, and Tailwind CSS with Clean, minimal design  
+   A responsive landing page for "AlloBank" developed using React.js, Vite.js, and Tailwind CSS with Clean, minimalist design. 
 
 
 ## 🌱 Currently Learning
