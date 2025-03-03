@@ -6,7 +6,6 @@
 
 
 ## About Me
-- 💖 &nbsp; Fall In Love W Efal.
 - **Software Engineering student** with hands-on experience in:
    - 🌟 React.js, Vite.js, JavaScript, and Tailwind CSS
    - 🖌️ Front-End Development with Vanilla CSS
