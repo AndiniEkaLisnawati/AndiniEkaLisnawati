@@ -13,7 +13,7 @@
    - 📊 Database Management with phpMyAdmin and Laragon
 
 <p align="center">
-  <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="https://github.com/AndiniEkaLisnawati" title="streakk">
+  <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="https://github.com/AndiniEkaLisnawati" title="Repo user">
     <img src="https://freshidea.com/jonah/app/github-search-results/streak-stats"/></a>
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
