@@ -13,12 +13,10 @@
 
      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndiniEkaLisnawati&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/AndiniEkaLisnawati/github-readme-stats)
 
+
 <p align="center">
-    <img src="https://nirzak-streak-stats.vercel.app?user=AndiniEkaLisnawati&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://nirzak-streak-stats.vercel.app?user=AndiniEkaLisnawati&theme=bear&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-
-
 
 ## 🌱 Currently Learning
 - Advanced React  
