@@ -11,7 +11,8 @@
    - 🖌️ Front-End Development with Vanilla CSS
    - 🔄 Version Control using Git and GitHub
    - 📊 Database Management with phpMyAdmin and Laragon
- 
+
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndiniEkaLisnawati&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/AndiniEkaLisnawati/github-readme-stats)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </p>
