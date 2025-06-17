@@ -12,7 +12,17 @@
    - 🔄 Version Control using Git and GitHub
    - 📊 Database Management with phpMyAdmin and Laragon
  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AndiniEkaLisnawati)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+</p>
+
+<p align="center">
+    <img src="https://nirzak-streak-stats.vercel.app?user=AndiniEkaLisnawati&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
+</p>
 
 
 
