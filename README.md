@@ -12,16 +12,12 @@
    - 🔄 Version Control using Git and GitHub
    - 📊 Database Management with phpMyAdmin and Laragon
 
-## 💼 Projects
-### 1. **[Haus Landing Page](#)**  
-   _Built with: React.js, Vite.js, Tailwind CSS_  
-   **Description**:  
-   A responsive landing page for "Haus" created using React.js, Vite.js, and Tailwind CSS with Modern and responsive design.
-   
-### 2. **[AlloBank Landing Page](#)**  
-   _Built with: React.js, Vite.js, Tailwind CSS_  
-   **Description**:  
-   A responsive landing page for "AlloBank" developed using React.js, Vite.js, and Tailwind CSS with Clean, minimalist design. 
+<p align="center">
+  <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="https://github.com/AndiniEkaLisnawati" title="streakk">
+    <img src="https://freshidea.com/jonah/app/github-search-results/streak-stats"/></a>
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
+    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
+</p>
 
 
 ## 🌱 Currently Learning
