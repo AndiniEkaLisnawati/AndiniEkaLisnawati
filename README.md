@@ -6,7 +6,7 @@
 
 ## About Me
 - **Software Engineering student** with hands-on experience in:
-   - 🌟 React.js, Vite.js, JavaScript, and Tailwind CSS
+   - 🌟 React.js, Vite.js, JavaScript, Next.js, Php and Tailwind CSS
    - 🖌️ Front-End Development with Vanilla CSS
    - 🔄 Version Control using Git and GitHub
    - 📊 Database Management with phpMyAdmin and Laragon
