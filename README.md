@@ -32,7 +32,9 @@
 ###
 
 <div align="center">
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=6tdjdv2syry0rcex4u9fo184k&unique=true)
+  <a href="https://open.spotify.com/user/andinandin">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=andinandin&count=5&unique=true&width={700}" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
