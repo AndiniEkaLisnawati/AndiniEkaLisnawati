@@ -14,17 +14,11 @@
      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndiniEkaLisnawati&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/AndiniEkaLisnawati/github-readme-stats)
 
 
-<p align="center">
-    <img src="https://nirzak-streak-stats.vercel.app?user=AndiniEkaLisnawati&theme=bear&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ## 🌱 Currently Learning
 - Advanced React  
 - Basics of Express.js 
 - Front-End Development best practices  
-
-
-
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@andiniekalisnawatililis2/0">
@@ -38,15 +32,13 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/andinandin">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=andinandin&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+ ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6tdjdv2syry0rcex4u9fo184k&width={700})
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=AndiniEkaLisnawati&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=AndiniEkaLisnawati&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndiniEkaLisnawati&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
