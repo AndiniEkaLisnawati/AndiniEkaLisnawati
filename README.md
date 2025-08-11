@@ -11,10 +11,6 @@
    - 🔄 Version Control using Git and GitHub
    - 📊 Database Management with phpMyAdmin and Laragon
 
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndiniEkaLisnawati&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/AndiniEkaLisnawati/github-readme-stats)
-
-
-
 ## 🌱 Currently Learning
 - Advanced React  
 - Basics of Express.js 
@@ -33,7 +29,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/andinandin">
-    <img src="ttps://spotify-recently-played-readme.vercel.app/api?user=6tdjdv2syry0rcex4u9fo184k" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=6tdjdv2syry0rcex4u9fo184k" alt="Spotify recently played"  />
   </a>
 </div>
 
