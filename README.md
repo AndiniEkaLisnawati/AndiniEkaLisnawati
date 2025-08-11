@@ -23,17 +23,8 @@
 - Basics of Express.js 
 - Front-End Development best practices  
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="100%"/>
-</p>
 
-<h3> <p align="center">🤝🏻 Connect with Me</p> </h3>
 
-<p align="center">
-&nbsp; <a href="https://www.instagram.com/sy.andnnn/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/andinn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:andiniekalisnawatililis2@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@andiniekalisnawatililis2/0">
@@ -68,3 +59,11 @@
 </picture>
 
 ###
+
+<h3> <p align="center">🤝🏻 Connect with Me</p> </h3>
+
+<p align="center">
+&nbsp; <a href="https://www.instagram.com/sy.andnnn/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/andinn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:andiniekalisnawatililis2@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
