@@ -34,3 +34,15 @@
 &nbsp; <a href="https://www.linkedin.com/in/andinn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:andiniekalisnawatililis2@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndiniEkaLisnawati/AndiniEkaLisnawati/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndiniEkaLisnawati/AndiniEkaLisnawati/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndiniEkaLisnawati/AndiniEkaLisnawati/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/AndiniEkaLisnawati/AndiniEkaLisnawati/output/snake.svg" alt="Snake animation" />
+
+###
