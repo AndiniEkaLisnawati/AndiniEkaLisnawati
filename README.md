@@ -3,13 +3,18 @@
   <img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" widht="200">
 </p>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AndiniEkaLisnawati.AndiniEkaLisnawati&"  />
+</div>
+
+###
 
 ## About Me
 - **Software Engineering student** with hands-on experience in:
    - 🌟 React.js, Vite.js, JavaScript, Next.js, Php and Tailwind CSS
    - 🖌️ Front-End Development with Vanilla CSS
    - 🔄 Version Control using Git and GitHub
-   - 📊 Database Management with phpMyAdmin and Laragon
+   - 📊 Database Management with phpMyAdmin, Supabase and Laragon
 
 ## 🌱 Currently Learning
 - Advanced React  
@@ -28,6 +33,7 @@
 ###
 
 <div align="center">
+    <img src="https://streak-stats.demolab.com?user=AndiniEkaLisnawati&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <a href="https://open.spotify.com/user/andinandin">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=6tdjdv2syry0rcex4u9fo184k" alt="Spotify recently played"  />
   </a>
@@ -36,7 +42,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AndiniEkaLisnawati&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndiniEkaLisnawati&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
