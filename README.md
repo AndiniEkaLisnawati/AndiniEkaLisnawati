@@ -32,7 +32,7 @@
 ###
 
 <div align="center">
- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6tdjdv2syry0rcex4u9fo184k&width={700})
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=6tdjdv2syry0rcex4u9fo184k&unique=true)
 </div>
 
 ###
