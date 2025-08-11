@@ -35,7 +35,7 @@
 &nbsp; <a href="mailto:andiniekalisnawatililis2@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6tdjdv2syry0rcex4u9fo184k)
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6tdjdv2syry0rcex4u9fo184k&unique={true|1|on|yes})
 
 <picture>
