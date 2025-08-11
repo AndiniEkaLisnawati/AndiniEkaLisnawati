@@ -33,7 +33,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/andinandin">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=andinandin&count=5&unique=true&width={700}" alt="Spotify recently played"  />
+    <img src="ttps://spotify-recently-played-readme.vercel.app/api?user=6tdjdv2syry0rcex4u9fo184k" alt="Spotify recently played"  />
   </a>
 </div>
 
@@ -84,9 +84,7 @@
 
 <img src="https://raw.githubusercontent.com/AndiniEkaLisnawati/AndiniEkaLisnawati/output/snake.svg" alt="Snake animation" />
 
-###
 
-###
 
 <h3> <p align="center">🤝🏻 Connect with Me</p> </h3>
 
