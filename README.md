@@ -35,17 +35,36 @@
 &nbsp; <a href="mailto:andiniekalisnawatililis2@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@andiniekalisnawatililis2/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@andiniekalisnawatililis2/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@andiniekalisnawatililis2/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@andiniekalisnawatililis2/1" alt="Medium post 2"  />
+  </a>
+</div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=6tdjdv2syry0rcex4u9fo184k&unique={true|1|on|yes})
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/andinandin">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=andinandin&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=AndiniEkaLisnawati&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndiniEkaLisnawati&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndiniEkaLisnawati/AndiniEkaLisnawati/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndiniEkaLisnawati/AndiniEkaLisnawati/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndiniEkaLisnawati/AndiniEkaLisnawati/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/AndiniEkaLisnawati/AndiniEkaLisnawati/output/snake.svg" alt="Snake animation" />
 
 ###
